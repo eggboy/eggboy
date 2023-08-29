@@ -9,6 +9,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eggboy)](https://git.io/streak-stats)
 
+### 📈 GitHub Contribution:
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eggboy/eggboy/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eggboy/eggboy/output/github-contribution-grid-snake.svg">
