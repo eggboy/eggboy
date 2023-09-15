@@ -1,5 +1,5 @@
 ### Recent Blog Posts
-
+- [Early access to Kubernetes Alpha features on Azure using Cluster API](https://medium.com/@eggboy/early-access-to-kubernetes-alpha-features-on-azure-using-cluster-api-5d54d1f73e95)
 - [CI/CD Java apps securely to Azure Kubernetes Service with GitHub Action — Part 1](https://medium.com/@eggboy/ci-cd-java-apps-securely-to-azure-kubernetes-service-with-github-action-part-1-16393af4d097)
 - [Azure Function for Java developers — Spring Cloud Function in Azure](https://medium.com/microsoftazure/create-azure-function-with-spring-cloud-function-ab150216d2bd)
 - [Safely access Azure Kubernetes Service in GitHub Action with AAD Federated Identity](https://medium.com/microsoftazure/safely-access-azure-kubernetes-service-in-github-action-with-aad-federated-identity-b4ab39721a20)
