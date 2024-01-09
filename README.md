@@ -7,6 +7,10 @@
 - [Part 2 — Passwordless Connection with Serice Connector for Java on Azure](https://medium.com/@eggboy/part-2-passwordless-connection-with-serice-connector-for-java-on-azure-695d34b30963)
 - [Using Managed Identity with Azure AD Workload Identity on AKS for Java developers](https://medium.com/@eggboy/using-managed-identity-with-azure-ad-workload-identity-on-aks-for-java-developers-3fd7c8abea09)
 
+### Technical Workshop
+- [Github Advanced Security Hands-on](https://eggboy.github.io/ghas-java-workshop/)
+- [Github Copilot Java Spring Hands-on)[https://github.com/eggboy/copilot-spring-calculator]
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eggboy)](https://git.io/streak-stats)
 
 ### 📈 GitHub Contribution:
