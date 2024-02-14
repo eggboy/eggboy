@@ -1,4 +1,6 @@
 ### Recent Blog Posts
+- [Using Managed Identity in Azure DevOps Pipeline with Federated Identity](https://medium.com/@eggboy/using-managed-identity-in-azure-devops-pipeline-with-federated-identity-72813873b933)
+- [Running Azure DevOps Self-hosted agent on AKS without using PAT](https://medium.com/@eggboy/running-azure-devops-self-hosted-agent-on-aks-without-using-pat-1b90f714c147)
 - [Early access to Kubernetes Alpha features on Azure using Cluster API](https://medium.com/@eggboy/early-access-to-kubernetes-alpha-features-on-azure-using-cluster-api-5d54d1f73e95)
 - [CI/CD Java apps securely to Azure Kubernetes Service with GitHub Action — Part 1](https://medium.com/@eggboy/ci-cd-java-apps-securely-to-azure-kubernetes-service-with-github-action-part-1-16393af4d097)
 - [Azure Function for Java developers — Spring Cloud Function in Azure](https://medium.com/microsoftazure/create-azure-function-with-spring-cloud-function-ab150216d2bd)
@@ -8,6 +10,7 @@
 - [Using Managed Identity with Azure AD Workload Identity on AKS for Java developers](https://medium.com/@eggboy/using-managed-identity-with-azure-ad-workload-identity-on-aks-for-java-developers-3fd7c8abea09)
 
 ### Technical Workshop
+- [AKS Security and Governance Hands-on](https://github.com/eggboy/sg-aks-workshop)
 - [Github Advanced Security Hands-on](https://eggboy.github.io/ghas-java-workshop/)
 - [Github Copilot Java Spring Hands-on](https://github.com/eggboy/copilot-spring-calculator)
 
