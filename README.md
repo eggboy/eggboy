@@ -10,6 +10,7 @@
 - [Using Managed Identity with Azure AD Workload Identity on AKS for Java developers](https://medium.com/@eggboy/using-managed-identity-with-azure-ad-workload-identity-on-aks-for-java-developers-3fd7c8abea09)
 
 ### Technical Workshop
+- [Java on Azure Container Apps with Azure OpenAI](https://github.com/eggboy/aca-java-ai-workshop)
 - [AKS Security and Governance Hands-on](https://github.com/eggboy/sg-aks-workshop)
 - [Github Advanced Security Hands-on](https://eggboy.github.io/ghas-java-workshop/)
 - [Github Copilot Java Spring Hands-on](https://github.com/eggboy/copilot-spring-calculator)
