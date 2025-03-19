@@ -17,8 +17,6 @@
 - [Github Advanced Security Hands-on](https://eggboy.github.io/ghas-java-workshop/)
 - [Github Copilot Java Spring Hands-on](https://github.com/eggboy/copilot-spring-calculator)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eggboy)](https://git.io/streak-stats)
-
 ### 📈 GitHub Contribution:
 
 <picture>
