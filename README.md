@@ -1,4 +1,6 @@
 ### Recent Blog Posts
+- [Maximizing Nvidia GPU utilization on Azure Kubernetes Service with Time-Slicing and Multi-Instance GPU (MIG)](https://medium.com/@eggboy/maximizing-nvidia-gpu-utilization-on-aks-with-time-slicing-and-mig-e2003b05defe)
+- [Developing Kubernetes Admission Controller with Kotlin — Fixing AKS add-on issue in UDR](https://medium.com/@eggboy/developing-kubernetes-admission-controller-with-kotlin-fixing-aks-add-on-issue-in-udr-23418ab21d56)
 - [Using Managed Identity in Azure DevOps Pipeline with Federated Identity](https://medium.com/@eggboy/using-managed-identity-in-azure-devops-pipeline-with-federated-identity-72813873b933)
 - [Running Azure DevOps Self-hosted agent on AKS without using PAT](https://medium.com/@eggboy/running-azure-devops-self-hosted-agent-on-aks-without-using-pat-1b90f714c147)
 - [Early access to Kubernetes Alpha features on Azure using Cluster API](https://medium.com/@eggboy/early-access-to-kubernetes-alpha-features-on-azure-using-cluster-api-5d54d1f73e95)
