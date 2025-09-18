@@ -1,4 +1,5 @@
 ### Recent Blog Posts
+- [Migrate and Modernize JBoss EAP on Azure App Service (PaaS)](https://medium.com/@eggboy/migrate-and-modernize-jboss-eap-on-azure-app-service-paas-fe0e0ec3fcb6)
 - [Maximizing Nvidia GPU utilization on Azure Kubernetes Service with Time-Slicing and Multi-Instance GPU (MIG)](https://medium.com/@eggboy/maximizing-nvidia-gpu-utilization-on-aks-with-time-slicing-and-mig-e2003b05defe)
 - [Developing Kubernetes Admission Controller with Kotlin — Fixing AKS add-on issue in UDR](https://medium.com/@eggboy/developing-kubernetes-admission-controller-with-kotlin-fixing-aks-add-on-issue-in-udr-23418ab21d56)
 - [Using Managed Identity in Azure DevOps Pipeline with Federated Identity](https://medium.com/@eggboy/using-managed-identity-in-azure-devops-pipeline-with-federated-identity-72813873b933)
@@ -16,6 +17,7 @@
 - [AKS Security and Governance Hands-on](https://github.com/eggboy/sg-aks-workshop)
 - [Github Advanced Security Hands-on](https://eggboy.github.io/ghas-java-workshop/)
 - [Github Copilot Java Spring Hands-on](https://github.com/eggboy/copilot-spring-calculator)
+- [Azure Spring Apps](https://github.com/eggboy/azurespringapps-workshop-sg)
 
 ### 📈 GitHub Contribution:
 
