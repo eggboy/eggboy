@@ -1,4 +1,5 @@
 ### Recent Blog Posts
+- [Best Practices for Developing and Running AI Apps on Azure App Service in Python](https://medium.com/microsoftazure/best-practices-for-developing-and-running-ai-apps-on-azure-app-service-in-python-e807872125f9)
 - [Migrate and Modernize JBoss EAP on Azure App Service (PaaS)](https://medium.com/@eggboy/migrate-and-modernize-jboss-eap-on-azure-app-service-paas-fe0e0ec3fcb6)
 - [Maximizing Nvidia GPU utilization on Azure Kubernetes Service with Time-Slicing and Multi-Instance GPU (MIG)](https://medium.com/@eggboy/maximizing-nvidia-gpu-utilization-on-aks-with-time-slicing-and-mig-e2003b05defe)
 - [Developing Kubernetes Admission Controller with Kotlin — Fixing AKS add-on issue in UDR](https://medium.com/@eggboy/developing-kubernetes-admission-controller-with-kotlin-fixing-aks-add-on-issue-in-udr-23418ab21d56)
