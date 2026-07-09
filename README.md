@@ -1,4 +1,5 @@
 ### Recent Blog Posts
+- [Client-side Geographic Failover with Azure Managed Redis Geo Replication](https://medium.com/itnext/client-side-geographic-failover-with-azure-managed-redis-geo-replication-46dbc395ed33)
 - [GitHub Copilot Bring Your Own Key (BYOK) with Qwen3.6 on Azure Container Apps Serverless GPU](https://medium.com/@eggboy/github-copilot-bring-your-own-key-byok-with-qwen3-6-on-azure-container-apps-serverless-gpu-9139281f48b7)
 - [Deploying Hugging Face Models on Serverless GPUs on Azure: GLM-OCR for Intelligence Document Processing](https://medium.com/@eggboy/deploying-hugging-face-models-on-serverless-gpus-on-azure-glm-ocr-for-intelligence-document-d492e47b2619)
 - [Best Practices for Developing and Running AI Apps on Azure App Service in Python](https://medium.com/microsoftazure/best-practices-for-developing-and-running-ai-apps-on-azure-app-service-in-python-e807872125f9)
