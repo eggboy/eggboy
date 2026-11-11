@@ -1,4 +1,9 @@
 ### Recent Blog Posts
+
+- [GitHub Actions Runner Controller DinD on GKE Sandbox microVMs](https://github.com/eggboy/ghe-gke-microvm)
+- [Antigravity Enterprise Gateway with Open-Weight Models on Google Cloud Run GPU](https://github.com/eggboy/antigravity/tree/main/antigravity-byom)
+- [GKE Managed OpenTelemetry for ADK agent](https://github.com/eggboy/gke-adk-otel)
+<!--
 - [Client-side Geographic Failover with Azure Managed Redis Geo Replication](https://medium.com/itnext/client-side-geographic-failover-with-azure-managed-redis-geo-replication-46dbc395ed33)
 - [GitHub Copilot Bring Your Own Key (BYOK) with Qwen3.6 on Azure Container Apps Serverless GPU](https://medium.com/@eggboy/github-copilot-bring-your-own-key-byok-with-qwen3-6-on-azure-container-apps-serverless-gpu-9139281f48b7)
 - [Deploying Hugging Face Models on Serverless GPUs on Azure: GLM-OCR for Intelligence Document Processing](https://medium.com/@eggboy/deploying-hugging-face-models-on-serverless-gpus-on-azure-glm-ocr-for-intelligence-document-d492e47b2619)
@@ -15,14 +20,18 @@
 - [Part 1 — Using Service Connector with Java on Azure](https://medium.com/@eggboy/part-1-using-service-connector-with-java-on-azure-c0f5312a7cf9)
 - [Part 2 — Passwordless Connection with Serice Connector for Java on Azure](https://medium.com/@eggboy/part-2-passwordless-connection-with-serice-connector-for-java-on-azure-695d34b30963)
 - [Using Managed Identity with Azure AD Workload Identity on AKS for Java developers](https://medium.com/@eggboy/using-managed-identity-with-azure-ad-workload-identity-on-aks-for-java-developers-3fd7c8abea09)
+-->
 
 ### Technical Workshop
+- [Production GKE Workshop](https://github.com/eggboy/gke-production-workshop)
+<!--
 - [Hands-on Workshop: Production-Grade AI Agents with DSPy and Microsoft Agent Framework](https://github.com/eggboy/dspy-maf)
 - [Java on Azure Container Apps with Azure OpenAI](https://github.com/eggboy/aca-java-ai-workshop)
 - [AKS Security and Governance Hands-on](https://github.com/eggboy/sg-aks-workshop)
 - [Github Advanced Security Hands-on](https://eggboy.github.io/ghas-java-workshop/)
 - [Github Copilot Java Spring Hands-on](https://github.com/eggboy/copilot-spring-calculator)
 - [Azure Spring Apps](https://github.com/eggboy/azurespringapps-workshop-sg)
+-->
 
 ### 📈 GitHub Contribution:
 
