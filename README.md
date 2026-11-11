@@ -23,7 +23,7 @@
 -->
 
 ### Technical Workshop
-- [Production GKE Workshop](https://github.com/eggboy/gke-production-workshop)
+- [Building Google Kubernetes Engine for Production Workshop](https://github.com/eggboy/gke-production-workshop)
 <!--
 - [Hands-on Workshop: Production-Grade AI Agents with DSPy and Microsoft Agent Framework](https://github.com/eggboy/dspy-maf)
 - [Java on Azure Container Apps with Azure OpenAI](https://github.com/eggboy/aca-java-ai-workshop)
